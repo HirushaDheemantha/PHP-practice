@@ -1,4 +1,4 @@
-<!-- isset is a function which shows true if variable has a value or 0 or false if its null -->
+<!-- isset is a function which shows true if variable has a value or 0 ,or false if its null -->
  <!-- empty string is checking whether the variable is assigned or not if no its true if its null its also true -->
 
 <!DOCTYPE html>
